@@ -1,0 +1,10 @@
+.loading {
+  min-height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &.full_page {
+    min-height: 90vh;
+  }
+}

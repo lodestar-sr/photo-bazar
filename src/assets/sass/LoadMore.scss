@@ -1,0 +1,13 @@
+.load_more {
+  width: 100%;
+  background-color: var(--color-primary) !important;
+  font-size: 1.4rem !important;
+  color: #f0f0f0 !important;
+  box-shadow: 0 0 0 !important;
+  border-radius: 0 !important;
+  margin: 1rem 0;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}
